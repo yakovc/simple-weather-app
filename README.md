@@ -10,3 +10,10 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+**simple weather app**
+  basic front web build with vite.
+  data fetched from 'https://openweathermap.org/' website.
+  every insert of retrive the wind speed, temperature, humidity and sky description.
+
